@@ -244,8 +244,7 @@ static void some_static_function();
 Class names must be in PascalCase. Methods and members follow the same naming rules as functions and variables.
 
 ```cpp
-class Car
-{
+class Car {
 public:
     void drive();
     void trigger_alarm();
