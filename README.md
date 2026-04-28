@@ -27,12 +27,13 @@ The goal of this repository is to keep everything simple and understandable.
     - [Comments](#comments)
     - [Indentation](#indentation)
 - [Code](#code)
-    - [Memory managment](#memory-managment)
-    - [Thread managment](#thread-managment)
-    - [Variables/Objects managment](#variables-objects-managment)
+    - [Memory management](#memory-management)
+    - [Thread management](#thread-management)
+    - [Variables/Members management](#variables-and-members-management)
     - [Data Structures](#data-structures)
     - [Modern features](#modern-features)
 - [About publication](#about-publication)
+
 
 # Main goal
 Keep the code as simple as possible and understandable. Have consistency by using the same coding style and the same semantic for all the codebase. Use modern C++
