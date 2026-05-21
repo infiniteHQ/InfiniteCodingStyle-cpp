@@ -404,7 +404,7 @@ Good memory management will guarantee memory safety.
 - Do not use C style memory management in C++
 - Have the same memory management method for an entire context
 - Prefer smart pointers (`std::unique_ptr`, `std::shared_ptr`) over raw pointers
-- Avoid manual `new` and `delete`
+- Avoid manual memory allocation
 
 ### Thread management
 #### Our rules
